@@ -172,14 +172,3 @@ save(fx, fy, 0., 10., 1000, tf, 'fib')
 
 gsx1, gsy1 = grad_search(10., tf, df)  
 save(gsx1, gsy1, 0., 10., 1500, tf)
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
