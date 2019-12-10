@@ -2,7 +2,7 @@
 Laboratory work about optimization methods.
 
 
-## sourse code in code.py 
+# sourse code -> code.py 
 
 
-## jupiter notebook with grafics -> .ipynb
+# code with grafics in jupiter notebook -> optim_lab.ipynb
